@@ -4,7 +4,7 @@
 
 <object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="http://yoursite.com/the.pdf">
-        <p>Manifeste AGILE: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+        <p>Manifeste AGILE: <a href="http://yoursite.com/the.pdf">CLIQUE-MOI</a>.</p>
     </embed>
 </object>
 
