@@ -14,7 +14,10 @@
 ## Le perfectionnisme
 
 
-   https://business.lesechos.fr/entrepreneurs/efficacite-personnelle/0701737356743-le-perfectionnisme-quand-la-peur-mene-tout-droit-a-l-echec-349267.php
+  https://business.lesechos.fr/entrepreneurs/efficacite-personnelle/0701737356743-le-perfectionnisme-quand-la-peur-mene-tout-droit-a-l-echec-349267.php
+  
+  
+  ![img2](https://www.medisite.fr/files/images/diaporama/0/2/1/5625120/vignette-focus.jpg)
 
 
 
