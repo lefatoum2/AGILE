@@ -35,7 +35,7 @@ https://www.nutcache.com/fr/blog/effet-tunnel-projet/
  
  ## Le découpage fonctionnel
  
- ![img5](https://www.leguedois.fr/fonctionnel-versus-technique-decoupage-fonctionnel/)
+https://www.leguedois.fr/fonctionnel-versus-technique-decoupage-fonctionnel/
 
 
 
