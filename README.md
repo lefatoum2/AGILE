@@ -32,6 +32,10 @@ https://www.nutcache.com/fr/blog/effet-tunnel-projet/
 ## Ice Breaker
 
  ![img4](https://img.src.ca/2016/10/21/1250x703/161021_bz9uu_aetd_brice_nice_sn1250.jpg)
+ 
+ ## Le découpage fonctionnel
+ 
+ ![img5](https://www.leguedois.fr/fonctionnel-versus-technique-decoupage-fonctionnel/)
 
 
 
