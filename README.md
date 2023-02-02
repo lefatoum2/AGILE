@@ -37,7 +37,17 @@ https://www.nutcache.com/fr/blog/effet-tunnel-projet/
  
 https://www.leguedois.fr/fonctionnel-versus-technique-decoupage-fonctionnel/
 
+## Découper ses User Stories
 
+Selon un sondage réalisé par Mike Cohn, voici les 4 problématiques principales auxquelles sont confrontées les équipes lors du découpage :
+- découper suffisamment petit pour être terminé dans une itération
+- découper en évitant le découpage technique/opérationnel (ex : dev puis test)
+- découper sans y passer trop de temps
+- découper sans se perdre dans l'ensemble des techniques de découpage
+
+N'oubliez pas que la personne lisant votre US est le développeur, la meilleure manière de découper est celle qui s'adapte à votre équipe.
+
+https://coach-agile.com/2022/07/le-guide-ultime-et-pratique-zero-bullshit-pour-decouper-tes-user-stories/
 
 
 
